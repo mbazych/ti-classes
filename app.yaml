@@ -3,8 +3,9 @@
 runtime: php72
 
 handlers:
- - url: /.*
-   secure: always
-   script: auto
- - url: /styles
-   static_dir: stylesheets
+- url: /styles
+  static_dir: stylesheets
+- url: /.*
+  secure: always
+  script: auto
+
