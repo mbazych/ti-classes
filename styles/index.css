@@ -1,0 +1,11 @@
+#main {
+    width: 100px;
+    height: 100px;
+    
+    margin: auto;
+}
+
+#text {
+    text-align: center;
+    color: red;
+}
