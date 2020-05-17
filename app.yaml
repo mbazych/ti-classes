@@ -9,4 +9,5 @@ handlers:
  - url: /.*
    secure: always
    script: auto
-
+ - url: /styles
+   static_dir: stylesheets
