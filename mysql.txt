@@ -1,5 +1,0 @@
-mysql:
-root:ypsgm46sjBvs2mhm
-IP: 34.107.57.0
-nazwa: ti-classes:europe-west3:ti-classes-mysql
-db: phpdb
