@@ -7,7 +7,7 @@
     <link rel="stylesheet" type="text/css" href="/styles/index.css">
 </head>
 <body id="main">
-    <p id="text">
+    <p id="text" style="color: red;">
         Hello from Google Cloud!
     <p>
 </body>
