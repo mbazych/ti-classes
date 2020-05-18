@@ -9,6 +9,8 @@
 <body id="main">
     <p id="text" style="color: red;">
         Hello from Google Cloud!
+        <hr />
+        here is my first change!!
     <p>
 </body>
 </html>
